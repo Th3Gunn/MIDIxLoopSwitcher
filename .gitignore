@@ -1,4 +1,3 @@
-/examples/relay_gpio/build
-/examples/relay_gpio/sdkconfig
 /relay_gpio/relay_gpio/build
-/relay_gpio/relay_gpio/sdkconfig
+/relay_gpio/MIDI_TX/build
+/relay_gpio/MIDI_RX/build
